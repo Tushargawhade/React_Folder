@@ -3,7 +3,7 @@
     function Pageination() {
       return (
         <div>
-            Pageination
+            Page fotter for next and previous
         </div>
       )
     }
