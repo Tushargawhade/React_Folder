@@ -37,16 +37,7 @@ function AppContextProvider({children}){
     }
 
 
-    const value = {
-        loading,
-        setLoading,
-        posts,
-        setPages,
-        setPosts,
-        pages,
-        totalpages,
-        setTotalPages
-    }
+    
 
 
 
