@@ -9,6 +9,7 @@ function App() {
     <div>
         <Header/>
         <Blogs/>
+        <Pageination/>
 
     </div>
   )
